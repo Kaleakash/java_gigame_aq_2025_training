@@ -1,0 +1,20 @@
+package com;
+
+public class Car {
+	int wheel;
+	String colour;
+	float price;
+	
+	void start() {
+		
+	}
+	void appliedGear() {
+		
+	}
+	void moving() {
+		
+	}
+	void stop() {
+		
+	}
+}

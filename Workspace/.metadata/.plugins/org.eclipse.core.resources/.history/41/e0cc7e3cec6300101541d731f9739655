@@ -1,0 +1,21 @@
+package com;
+
+public class Car {
+	int wheel;
+	String colour;
+	float price;
+	
+	void start() {
+		String msg;
+		System.out.println("Car Start");
+	}
+	void appliedGear() {
+		
+	}
+	void moving() {
+		
+	}
+	void stop() {
+		System.out.println("Car Stop");
+	}
+}

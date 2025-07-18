@@ -1,0 +1,22 @@
+package com;
+
+public class CarTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		System.out.println("main method");
+//		Car innova =new Car();		// heap memory 
+//		//int a=10;
+//		innova.start();
+//		innova.stop();
+//		new Car().start();
+//		new Car().stop();
+		//new Car().Car();
+		Car innova = new Car();
+		innova.colour="Gray";
+		innova.price=3400000;
+		innova.wheel=4;
+		Car ertiga = new Car(4,"White",1400000);
+	}
+
+}

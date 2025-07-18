@@ -1,0 +1,29 @@
+package com;
+
+public class Car {
+	int wheel;
+	String colour;
+	float price;
+	Car() {
+		
+	}
+	public Car(int wheel, String colour, float price) {
+		super();
+		this.wheel = wheel;
+		this.colour = colour;
+		this.price = price;
+	}
+	void start() {
+		String msg;
+		System.out.println("Car Start");
+	}
+	void appliedGear() {
+		
+	}
+	void moving() {
+		
+	}
+	void stop() {
+		System.out.println("Car Stop");
+	}
+}
