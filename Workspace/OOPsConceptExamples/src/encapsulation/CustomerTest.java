@@ -1,0 +1,20 @@
+package encapsulation;
+
+public class CustomerTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// 1st option 
+		Customer c1 = new Customer();
+		c1.setCid(100);
+		c1.setCname("Ajay");
+		
+		System.out.println("id is "+c1.getCid());
+		System.out.println("name is "+c1.getCname());
+		
+		Customer c2 = new Customer(101, "Vijay");
+		System.out.println("id is "+c2.getCid());
+		System.out.println("name is "+c2.getCname());
+	}
+
+}

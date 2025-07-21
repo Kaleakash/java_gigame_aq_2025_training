@@ -1,0 +1,24 @@
+package polymorphism;
+class Bike {
+	void speed() {
+		System.out.println("60km/hr");
+	}
+}
+class Honda extends Bike {
+	void mailage() {
+		System.out.println("65km/lt");
+	}
+}
+class Pulsar extends Bike {
+	void mailage() {
+		System.out.println("40km/lt");
+	}
+}
+public class MethodOverridingExample {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}

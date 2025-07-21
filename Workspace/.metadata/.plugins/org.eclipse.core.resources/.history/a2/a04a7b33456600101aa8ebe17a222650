@@ -1,0 +1,29 @@
+package absractkeyword;
+
+abstract class Bike {
+	abstract void speed();
+}
+abstract class Honda extends Bike {
+	void mailage() {
+		System.out.println("Honda mailage : 65km/lt");
+	}
+	
+}
+class Activa extends Honda  {
+	void speed() {
+		System.out.println("Override Speed by honda : 55km/hr");
+	}
+}
+class Pulsar extends Bike {
+	void mailage() {
+		System.out.println("Pulsar mailage : 40km/lt");
+	}
+	void speed() {
+		System.out.println("Override Speed by pulsar : 90km/hr");
+	}
+}
+public class AbstractExample {
+	public static void main(String[] args) {
+		
+	}
+}
