@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.MyThread1"/>
+    <fullyQualifiedTypeName name="com.MyThread2"/>
+    <fullyQualifiedTypeName name="com.MyThread3"/>
+    <fullyQualifiedTypeName name="com.MyThread4"/>
+    <fullyQualifiedTypeName name="com.Task"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>
