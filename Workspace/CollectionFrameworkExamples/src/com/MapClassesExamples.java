@@ -17,7 +17,7 @@ public class MapClassesExamples {
 		hm.put(3, "Raj");
 		hm.put(5, "Raju");
 		System.out.println(hm);
-		hm.put(3, "Vikash");
+			hm.put(3, "Vikash");
 		hm.put("a", "b");
 		if(hm.containsKey(1)) {
 			System.out.println("present");
