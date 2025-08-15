@@ -14,7 +14,6 @@
     <fullyQualifiedTypeName name="java.util.ListIterator"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.text.CollationElementIterator"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
@@ -30,10 +29,26 @@
     <fullyQualifiedTypeName name="lambda.Compare"/>
     <fullyQualifiedTypeName name="streamapi.MyConsumer"/>
     <fullyQualifiedTypeName name="java.util.function.Consumer"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.util.IntSummaryStatistics"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="streamapi.Student"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="methodreference.OperationImp"/>
+    <fullyQualifiedTypeName name="methodreference.OperationImp1"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="methodreference.Operation"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="java.time.temporal.Temporal"/>
+    <fullyQualifiedTypeName name="java.util.TimeZone"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.ZoneId"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
 </qualifiedTypeNameHistroy>
